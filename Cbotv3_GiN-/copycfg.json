@@ -1,0 +1,29 @@
+{
+  "wallet_btc":"/cancel",
+  "wallet_ltc":"ltc1qmv59qgawc566vfrhltr83rnuxg5qt6edd2ta8s",
+  "wallet_bch":"/cancel",
+  "wallet_zec":"/cancel",
+  "wallet_doge":"/cancel",
+  "reff_btc":"oOZq",
+  "reff_ltc":"NaFQ0",
+  "reff_bch":"Fwozn",
+  "reff_doge":"0ai2c",
+  "reff_zec":"66zg",
+  "fitur":{
+    "auto_reff":"on",
+    "msg":"on",
+    "join":"on",
+    "visit":"on",
+    "auto_wd":"on"
+  },
+  "jumlah":{
+      "msg":"99",
+      "join":"99",
+      "visit":"99"
+   },
+  "cf-cookie":{
+    "ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36",
+    "limit":"3",
+    "delay":"60"
+  }
+}
